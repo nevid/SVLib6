@@ -1,3 +1,10 @@
+/*
+* SV Library 6
+* Sergey Voskresensky (C)
+* http://svsoft.svhome.org
+* nevidprogr@gmail.com
+*/
+
 #ifndef SVIOCHAN_HPP
 #define SVIOCHAN_HPP
 
